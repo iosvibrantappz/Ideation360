@@ -1,6 +1,0 @@
-framework module MMCollapsibleLabel {
-  umbrella header "MMCollapsibleLabel-umbrella.h"
-
-  export *
-  module * { export * }
-}
